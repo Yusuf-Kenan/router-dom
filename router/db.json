@@ -1,0 +1,12 @@
+{
+  "students": [
+    {
+      "id": "1673626014144",
+      "studentNo": "234",
+      "name": "Yusuf Kenan",
+      "surname": "Cobanoglu",
+      "studentClass": "11/C",
+      "schoolName": "CBU"
+    }
+  ]
+}
